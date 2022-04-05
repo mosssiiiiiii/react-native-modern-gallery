@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+# Node Module
+node_modules/
+
+# Webstorm / IntelliJ
+.idea

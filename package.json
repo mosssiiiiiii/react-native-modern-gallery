@@ -1,0 +1,23 @@
+{
+  "name": "react-native-modern-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-native": "^0.68.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "@types/react": "^17.0.43",
+    "@types/react-native": "^0.67.3",
+    "react": "^18.0.0",
+    "react-native": "^0.68.0",
+    "typescript": "^4.6.3"
+  }
+}
